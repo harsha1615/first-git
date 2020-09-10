@@ -1,2 +1,2 @@
-# se
+# First Git Example
 Software Engineering 
